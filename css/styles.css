@@ -25,13 +25,12 @@ html {
     margin: auto;
     max-width: 100%;
     border-width: 0 5px;
-    padding-top: 100px;
+    padding-top: 0px;
 
 }
 
 header {
-    padding-top: 0;
-    background-color: rgb(226, 208, 199);
+    background-color: rgb(120, 102, 185);
     height: 100px;
     position: relative;
 }
@@ -39,17 +38,18 @@ header {
 #logo {
     font-family: 'Indie Flower', cursive;
     width: 25px;
-    padding-left: 40%;
+    padding-left: 0;
     letter-spacing: .07em;
-    font-size: 25px;
+    font-size: 35px;
     text-align: center;
+    padding-top: 0;
     color: black;
   
 }
 
 nav {
     margin:0; 
-    background: whitesmoke;
+    background:green;
     position: absolute;
     padding-top: 0;
     padding: 0;
@@ -73,14 +73,14 @@ nav li {
 nav li a {
 
     display: block;
-    color: white;
+    color: whitesmoke;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color:white;
+    background-color:rgb(165, 156, 212);
 }
 
 #content {
@@ -121,8 +121,8 @@ textarea {
 footer {
     font-family: 'Muli', sans-serif;
     padding: 20px;
-    color: #ddd;
-    background-color: #222;
+    color: white;
+    background-color:rgb(120, 102, 185);
     font-size: .9em;
 }
 

@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$clubstr = ' Meet Friends';
+$clubstr = ' Meetme';
 $userstr = 'Welcome Guest';
 
 echo <<<_INIT
