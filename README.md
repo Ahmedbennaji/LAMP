@@ -1,2 +1,2 @@
 # LAMP
-social network a website connects you to people. 
+social network a website connects you to friends 
